@@ -1,2 +1,0 @@
-# FirefoxCustomTabsSample
-FirefoxCustomTabsの動作確認をするプログラム
